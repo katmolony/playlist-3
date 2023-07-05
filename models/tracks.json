@@ -1,0 +1,12 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "demo track ",
+      "artist": "hannah",
+      "duration": 23,
+      "_id": "c8c0d964-9bd7-450a-ad2e-e1ad1df64695",
+      "playlistid": "c7e02d3f-3f02-4bf1-9793-6d57a5468a6a"
+    }
+  ]
+}
